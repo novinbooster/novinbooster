@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - my websites:
-- [mranten.ir] (https://mranten.ir)
-- [repeatech.com] (https://repeatech.com)
+- [mranten.ir](https://mranten.ir)
+- [repeatech.com](https://repeatech.com)
 <!---
 novinbooster/novinbooster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
